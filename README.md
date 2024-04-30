@@ -1,4 +1,4 @@
-## A space for unbiased problem solving.
+## CrizalInfoTech - A name resonating with unbiased problem solving and AI consulting solutions.
 
 - 👋 Hi, I’m @raman-kishore CEO/Co-Founder CrizalInfoTech, an AI consulting firm based in UAE
 - 👀 I’m interested in ML, Deep Learning, NLP(LLMs), Reinforcement Learning, Infra Optimization and Blockchain Web3.0 Development
